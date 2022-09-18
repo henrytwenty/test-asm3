@@ -73,7 +73,7 @@ a:active {
   letter-spacing: -1px;
 }
 .banner-text span {
-  font-size: calc(12px + 1vw);
+  font-size: calc(8px + 1vw);
 }
 /* -------------Nav-Bar------------- */
 #nav-bar img {

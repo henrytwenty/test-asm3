@@ -76,9 +76,12 @@ i {
   transform: translate(-50%, 64px);
 }
 .banner-text h1 {
-  font-size: 52px;
+  font-size: calc(24px + 3vw);
   margin-bottom: 4px;
   letter-spacing: -1px;
+}
+.banner-text span {
+  font-size: calc(8px + 1vw);
 }
 /*------------------ Navigation------------------ */
 #nav-bar {
